@@ -8,6 +8,8 @@ export default {
       name: 'description',
       content: process.env.npm_package_description || ''
     }
+    <meta name=”robots” content=”index, follow”>
+<meta name="description" content="sample meta description."></meta>
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   script: [
