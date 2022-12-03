@@ -8,6 +8,7 @@ export default {
       name: 'description',
       content: process.env.npm_package_description || ''
     }
+    <meta name="google-site-verification" content="DdEgye0t2Tti9nJ6Fwq7q3NR_zpsdq5FfBW_72YqY7Q" />
     <meta name=”robots” content=”index, follow”>
 <meta name="description" content="sample meta description."></meta>
   ],
