@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'MVPCOOL เว็บพนันออนไลน์เว็บตรง ของดีฝากไม่มีขั้นต่ำไม่ผ่านเอเย่นต์',
+  tagline: 'สมัครเล่น เว็บพนันออนไลน์เว็บตรง กับเราที่ดีที่สุด ทำรายการผ่านวอเลท มีโปรดีให้เลือกต้องที่นี่เลย',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
