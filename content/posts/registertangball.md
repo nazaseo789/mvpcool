@@ -8,9 +8,7 @@ author: southblade
 date: 2022-12-03T19:59:59.000Z
 featureImage: https://i.postimg.cc/4xn58ppg/01.jpg
 
-<meta name=”robots” content=”index, follow”>
 
-<meta name="description" content="sample meta description.">
 ---
 
 
