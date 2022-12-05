@@ -11,4 +11,4 @@ You're publishing great content! Make sure people can get it easily right in the
 
 ## 1. Signup with Mailchimp
 
-adsgfasdgdfgsdfhshdfgjdjy
+adsgfasdgdfgsdfhshdfgjdjydsfgsdfg
