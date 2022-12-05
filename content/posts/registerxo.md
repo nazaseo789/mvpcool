@@ -1,6 +1,6 @@
 ---
 title: สมัครSlotxo เว็บตรงของดีเจ้ๅแรกในไทยได้แล้ววันนี้
-subtitle: 
+subtitle:สำหรับผู้ที่สนใจสมัครslotxo มีบริการหลากช่องทางทั้งธนาคารและ true wallet และโปรดีๆต้องเล่นกับเราที่นี่เลย  
 category:
   - About Awake
 author: southblade
