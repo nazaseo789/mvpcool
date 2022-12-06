@@ -76,5 +76,15 @@
     "vue": "2.6.12",
     "vue-server-renderer": "2.6.12",
     "vue-template-compiler": "2.6.12"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazaseo789/mvpcool.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/nazaseo789/mvpcool/issues"
+  },
+  "homepage": "https://github.com/nazaseo789/mvpcool#readme"
 }
