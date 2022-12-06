@@ -1,12 +1,12 @@
 import isString from 'lodash.isstring'
 export const state = () => ({
   pageType: '',
-  title: '',
-  subtitle: '',
-  featureImage: '',
-  content: '',
-  author: '',
-  date: ''
+  title: 'MVPCOOL เว็บพนันออนไลน์เว็บตรง ของดีฝากไม่มีขั้นต่ำไม่ผ่านเอเย่นต์',
+  subtitle: 'สมัครเล่น เว็บพนันออนไลน์เว็บตรง กับเราที่ดีที่สุด ทำรายการผ่านวอเลท มีโปรดีให้เลือกต้องที่นี่เลย',
+  featureImage: 'https://i.postimg.cc/5NTw9yX5/01.jpg',
+  content: 'MVPCOOL เว็บพนันออนไลน์เว็บตรง ของดีฝากไม่มีขั้นต่ำไม่ผ่านเอเย่นต์',
+  author: 'Southblade',
+  date: '7-12-2022'
 })
 export const mutations = {
   set(state, data) {
